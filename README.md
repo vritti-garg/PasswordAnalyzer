@@ -19,7 +19,8 @@ A Python tool to:
 3. Create and activate a virtual environment:
    ```bash
    python -m venv venv
-   venv\Scripts\activate````
+   venv\Scripts\activate
+   ````
 
 4. Install dependencies:
 
