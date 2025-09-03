@@ -90,7 +90,8 @@ PasswordAnalyzer/
 │── gui.py               # GUI version (Tkinter)
 │── requirements.txt     # Dependencies
 │── README.md            # Documentation
-│── wordlist/            # Generated wordlists
+│── wordlist/            # Store generated wordlists
+│ └── krishna.txt        # Example generated wordlist
 ```
 
 ---
