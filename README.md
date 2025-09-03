@@ -3,6 +3,7 @@
 
 A Python tool to:
 - Analyze password strength (scaled 0–10) using **zxcvbn**.
+  (Score internally from zxcvbn is 0–4, but scaled to 0–10 in this project for better granularity.)
 - Generate **custom wordlists** based on personal details (name, nickname, parent name, year of birth).
 - Add variations like **leet-speak** (`p@ssw0rd`), years, and common patterns.
 - Export results in `.txt` format for use in cracking tools.
@@ -92,7 +93,7 @@ PasswordAnalyzer/
 │── requirements.txt     # Dependencies
 │── README.md            # Documentation
 │── wordlist/            # Store generated wordlists
-│ └── krishna.txt        # Example generated wordlist
+│ └── sample_wordlist.txt        # Example generated wordlist
 ```
 
 ---
@@ -104,3 +105,9 @@ PasswordAnalyzer/
 * zxcvbn
 * nltk
 * tk
+  
+## 🤝 Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## 📜 License
+This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
