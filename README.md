@@ -91,7 +91,6 @@ PasswordAnalyzer/
 │── requirements.txt     # Dependencies
 │── README.md            # Documentation
 │── wordlist/            # Generated wordlists
-
 ```
 
 ---
