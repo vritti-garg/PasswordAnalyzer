@@ -62,9 +62,9 @@ python wordlist_gen.py
 Sample interaction:
 
 ```
-Enter your name: Alex
-Enter your nickname: Lex
-Enter your parent’s name: John
+Enter your name: Priya
+Enter your nickname: Paro
+Enter your parent’s name: Siya
 Enter your year of birth: 2001
 ```
 
@@ -96,4 +96,3 @@ PasswordAnalyzer/
 * argparse
 * zxcvbn
 * nltk
-* tkinter (optional for GUI)
