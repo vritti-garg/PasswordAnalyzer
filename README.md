@@ -81,11 +81,13 @@ Saved at wordlist/custom_wordlist.txt
 
 ```
 PasswordAnalyzer/
-│── analyzer.py          # Password strength analyzer
-│── wordlist_gen.py      # Custom wordlist generator
+│── analyzer.py          # CLI password analyzer
+│── wordlist_gen.py      # CLI wordlist generator
+│── gui.py               # GUI version (Tkinter)
 │── requirements.txt     # Dependencies
 │── README.md            # Documentation
 │── wordlist/            # Generated wordlists
+
 ```
 
 ---
