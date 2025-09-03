@@ -74,7 +74,11 @@ Output:
 Wordlist generated with 450 entries
 Saved at wordlist/custom_wordlist.txt
 ```
-
+### 🖥️ GUI Version
+Run the Tkinter GUI:
+```bash
+python gui.py
+```
 ---
 
 ## 📂 Project Structure
@@ -94,7 +98,8 @@ PasswordAnalyzer/
 
 ## 🔧 Tech Stack
 
-* Python 🐍
+* Python 
 * argparse
 * zxcvbn
 * nltk
+* tk
