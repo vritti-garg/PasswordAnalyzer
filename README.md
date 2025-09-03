@@ -62,17 +62,17 @@ python wordlist_gen.py
 Sample interaction:
 
 ```
-Enter your name: Priya
-Enter your nickname: Paro
-Enter your parent’s name: Siya
-Enter your year of birth: 2001
+Enter your name: krishna
+Enter your nickname: kanha
+Enter your parent’s name: yashoda
+Enter your year of birth: 1734
 ```
 
 Output:
 
 ```
-Wordlist generated with 450 entries
-Saved at wordlist/custom_wordlist.txt
+Wordlist generated with 35 entries
+Saved at wordlist/krishna.txt
 ```
 ### 🖥️ GUI Version
 Run the Tkinter GUI:
